@@ -5,7 +5,8 @@ Puzzle game in which player designs and plays the puzzle on the board moving box
 Preview image helps user to move boxes.
 
 # Controls
-Only mouse input
+Design - mouse and keyboard
+Play - Only mouse input
 
 # Requirements
 C# 7.2 and later
